@@ -13,6 +13,6 @@ Als je direct in documenten en stukken wilt editen, dan is het nodig dat we jou 
 
 Als je geen 'member' bent, kun je op een andere manier bijdragen:
 
-- create issue
-- "create branche" & "create pull-request"
+- "create issue" : om een vraag te stellen, of probleem voor te leggen
+- "create branche" & "create pull-request" : om een wijziging in een document te maken en wanneer klaar in te dienen voor 'merge'
 
