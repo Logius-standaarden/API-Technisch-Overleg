@@ -11,8 +11,8 @@ Deze repository is bedoeld voor:
 
 Als je direct in documenten en stukken wilt editen, dan is het nodig dat we jou als 'member' toevoegen (mail hiervoor naar api@logius.nl).
 
-Als je geen member bent, kun je op een andere manier bijdragen:
+Als je geen 'member' bent, kun je op een andere manier bijdragen:
 
-- issues
+- create issue
 - "create branche" & "create pull-request"
 
