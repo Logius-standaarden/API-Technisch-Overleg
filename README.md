@@ -16,3 +16,4 @@ Als je geen 'member' bent, kun je op een andere manier bijdragen:
 - "create issue" : om een vraag te stellen, of probleem voor te leggen
 - "create branche" & "create pull-request" : om een wijziging in een document te maken en wanneer klaar in te dienen voor 'merge'
 
+.
